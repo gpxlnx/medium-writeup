@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Wed, 15 Oct 2025 15:07:26 GMT | [“The $10,800 Typo: How a Single Dot Broke Twitter’s Authentic...](https://freedium.cfd/https://medium.com/p/f485e6dc0f04) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 14:09:16 GMT | [Top 15 Misconfigurations That Lead to Instant Server Pwn: Master ...](https://freedium.cfd/https://medium.com/p/fbd5cb09df6a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 13:25:28 GMT | [Getting RCE — Challenge #1025 by Intigriti](https://freedium.cfd/https://medium.com/p/b3d0033a286d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 13:06:01 GMT | [How I Turned a Simple Python Script Into Profit](https://freedium.cfd/https://medium.com/p/8bf7f0db4652) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 23:47:02 GMT | [The Batcave Breach: A First-Timer’s Journey into Network Penetr...](https://freedium.cfd/https://medium.com/p/d4b8ce514a77) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 18:02:24 GMT | [ $35,000 por un fallo en GitLab — Análisis completo de un ...](https://freedium.cfd/https://medium.com/p/3fe1bd5bbb00) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 16:57:30 GMT | [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://freedium.cfd/https://medium.com/p/8ab557df4d1d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 12:18:07 GMT | [My Next Chapter: Becoming a Cybersecurity Researcher & Bug Bounty...](https://freedium.cfd/https://medium.com/p/027fe8796687) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 18:03:22 GMT | [Your Guide to a Free Google VPS](https://freedium.cfd/https://medium.com/p/13ea91788543) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 15 Oct 2025 17:48:40 GMT | [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://freedium.cfd/https://medium.com/p/16ce5677b599) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
+| Wed, 15 Oct 2025 18:03:22 GMT | [Your Guide to a Free Google VPS](https://freedium.cfd/https://medium.com/p/13ea91788543) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 18:02:24 GMT | [ $35,000 por un fallo en GitLab — Análisis completo de un ...](https://freedium.cfd/https://medium.com/p/3fe1bd5bbb00) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 16:57:30 GMT | [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://freedium.cfd/https://medium.com/p/8ab557df4d1d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 15:07:26 GMT | [“The $10,800 Typo: How a Single Dot Broke Twitter’s Authentic...](https://freedium.cfd/https://medium.com/p/f485e6dc0f04) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 13:06:01 GMT | [How I Turned a Simple Python Script Into Profit](https://freedium.cfd/https://medium.com/p/8bf7f0db4652) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 23:47:02 GMT | [The Batcave Breach: A First-Timer’s Journey into Network Penetr...](https://freedium.cfd/https://medium.com/p/d4b8ce514a77) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 17:48:40 GMT | [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://freedium.cfd/https://medium.com/p/16ce5677b599) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 14:09:16 GMT | [Top 15 Misconfigurations That Lead to Instant Server Pwn: Master ...](https://freedium.cfd/https://medium.com/p/fbd5cb09df6a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 13:25:28 GMT | [Getting RCE — Challenge #1025 by Intigriti](https://freedium.cfd/https://medium.com/p/b3d0033a286d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 15 Oct 2025 12:18:07 GMT | [My Next Chapter: Becoming a Cybersecurity Researcher & Bug Bounty...](https://freedium.cfd/https://medium.com/p/027fe8796687) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
