@@ -18,7 +18,7 @@ Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: invalid character entity & (no semicolon)
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: invalid character entity & (no semicolon)
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: invalid character entity & (no semicolon)
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: EOF
+Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: invalid character entity & (no semicolon)
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: invalid character entity & (no semicolon)
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: invalid character entity & (no semicolon)
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: invalid character entity & (no semicolon)
