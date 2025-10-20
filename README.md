@@ -12,9 +12,6 @@ Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on lin
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
@@ -22,6 +19,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML synta
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dork: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-pentest: XML syntax error on line 1: expected element name after <
