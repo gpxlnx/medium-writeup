@@ -1,4 +1,3 @@
-Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -15,8 +14,6 @@ Error parsing XML from https://medium.com/feed/tag/information-security: XML syn
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
@@ -64,3 +61,30 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
+| Sat, 25 Oct 2025 13:40:18 GMT | [Historia de una recompensa por $.$$$, Metodología aplicada y byp...](https://freedium.cfd/https://medium.com/p/746a6f7a0dbf) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Sat, 25 Oct 2025 13:34:10 GMT | [Ignoring a Firebase Public Configuration?](https://freedium.cfd/https://medium.com/p/9ccb9159abb5) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Sat, 25 Oct 2025 21:06:47 GMT | [How I Automated My GitHub Recon for Critical Bug Bounties](https://freedium.cfd/https://medium.com/p/34ed27660d3a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Sat, 25 Oct 2025 18:03:24 GMT | [Mastering Fileless Persistence on Linux: Techniques, Real-World E...](https://freedium.cfd/https://medium.com/p/c249012f7533) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Sat, 25 Oct 2025 18:08:27 GMT | [Why Headline Bounty Stories Mislead (and what actually builds a r...](https://freedium.cfd/https://medium.com/p/1b5b7dcdb4ae) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Sat, 25 Oct 2025 11:49:34 GMT | [How a Late Night Hunting Turned Into a Critical ‘Email-Only’ ...](https://freedium.cfd/https://medium.com/p/62393bb12cb8) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes | Yes |
+| Sat, 25 Oct 2025 21:26:04 GMT | [ The $0 Bounty That Taught Me the Most Valuable Lesson in Cyberse...](https://freedium.cfd/https://medium.com/p/47d2293f3a69) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Sat, 25 Oct 2025 20:29:44 GMT | [Recon Like a Hunter: Practical Tips from Real Findings Part 1](https://freedium.cfd/https://medium.com/p/d425d74c7c62) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Sat, 25 Oct 2025 18:08:57 GMT | [Web Cache Poisoning : Ancaman di Balik Kecepatan](https://freedium.cfd/https://medium.com/p/67da01a9a8f4) | [bug-bounty](https://medium.com/feed/tag/bug-bounty), [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Sat, 25 Oct 2025 01:33:42 GMT | [Web Cache Deception: A Complete Beginner to Advanced Guide](https://freedium.cfd/https://medium.com/p/94cf851cd89f) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Sat, 25 Oct 2025 19:14:29 GMT | [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://freedium.cfd/https://medium.com/p/38e3ca07b085) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Sat, 25 Oct 2025 17:55:55 GMT | [ Mastering Kali Linux for Ethical Hacking: From Beginner to Advan...](https://freedium.cfd/https://medium.com/p/b96cda724b42) | [bug-bounty](https://medium.com/feed/tag/bug-bounty), [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Sat, 25 Oct 2025 22:41:25 GMT | [How i win 1100 USD in bug bounty and this change my life in Boliv...](https://freedium.cfd/https://medium.com/p/8cc58bbeb681) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Sat, 25 Oct 2025 08:38:39 GMT | [Recon Wins Again: Uncovering a Billing Portal Leak Through Waybac...](https://freedium.cfd/https://medium.com/p/c7301e815fc5) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Sun, 19 Oct 2025 07:25:24 GMT | [Exploiting an Insecure Android Activity for Arbitrary File Theft ...](https://freedium.cfd/https://medium.com/p/07b360520a0e) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Fri, 24 Oct 2025 11:02:16 GMT | [How Did I Hack a Website Just by Reading JS Files](https://freedium.cfd/https://medium.com/p/6d6a6a90aac1) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Thu, 23 Oct 2025 19:29:15 GMT | [Cómo un Bug Bounty Hunter descubrió una vulnerabilidad en un ba...](https://freedium.cfd/https://medium.com/p/9f730fdbba48) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Sun, 12 Oct 2025 18:13:01 GMT | [  ](https://freedium.cfd/https://medium.com/p/08c0f46868d4) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Sun, 12 Oct 2025 07:24:40 GMT | [⚡ LIVE DATA from hacked testphp.vulnweb.com : The Honeypot...](https://freedium.cfd/https://medium.com/p/bf8e0ce6110a) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Fri, 24 Oct 2025 15:04:10 GMT | [ Mastering XSS on a Bug Bounty Platform: Finding, Understanding &...](https://freedium.cfd/https://medium.com/p/7a6693284091) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Fri, 24 Oct 2025 15:38:37 GMT | [Real Bugs from Timing Flaws in Web Services](https://freedium.cfd/https://medium.com/p/89c885c4ac02) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Fri, 17 Oct 2025 05:23:22 GMT | [Email Verification OTP Bypass €€ — How I verified any ema...](https://freedium.cfd/https://medium.com/p/470cec0dbca5) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Sun, 19 Oct 2025 19:26:36 GMT | [Cracking the Lock: How I Discovered Amazon KDP’s Missing Accoun...](https://freedium.cfd/https://medium.com/p/d504bef5adc0) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Fri, 17 Oct 2025 12:56:58 GMT | [Küçük bir hatanın doğurduğu sonuçlar \| Bugbounty Bounty W...](https://freedium.cfd/https://medium.com/p/6dc82dc38b41) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Sat, 18 Oct 2025 15:16:44 GMT | [Sneaking the Fence — Part 1](https://freedium.cfd/https://medium.com/p/a2ad740ca261) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Tue, 14 Oct 2025 04:24:09 GMT | [Secret Bug Bounty Platform that made me 11000$](https://freedium.cfd/https://medium.com/p/8f6c268bc501) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
+| Sun, 12 Oct 2025 02:57:20 GMT | [OWASP Top 10 Mobile Risks that made me 5000$](https://freedium.cfd/https://medium.com/p/d377e10d71f5) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) | Yes |  |
