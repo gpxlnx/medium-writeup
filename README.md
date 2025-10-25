@@ -1,6 +1,7 @@
 Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
@@ -16,7 +17,6 @@ Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error o
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
@@ -63,12 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 25 Oct 2025 03:31:57 GMT | [When Phishing Goes to School: How Attackers Exploited Google Clas...](https://freedium.cfd/https://medium.com/p/5475ffb08401) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 03:18:34 GMT | [Cyber Risk Management](https://freedium.cfd/https://medium.com/p/12037f044d2f) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 04:54:35 GMT | [When Billions Meet a Mom with Uno Cards: The Google-Anthropic Dea...](https://freedium.cfd/https://medium.com/p/2b6d68087dc5) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 04:22:25 GMT | [Day 5 of My 120-Day Purple Teaming & Cloud Incident Response Jour...](https://freedium.cfd/https://medium.com/p/5fef500980eb) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 04:15:42 GMT | [This week’s convergence of cloud instability, supply chain cybe...](https://freedium.cfd/https://medium.com/p/75fe2083f592) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 04:09:34 GMT | [Wazuh SIEM Baseline Assessment in 5 Scripts](https://freedium.cfd/https://medium.com/p/fc20277de879) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 03:59:04 GMT | [Earn 100$ while just scrolling New perplexity's Comet Browser](https://freedium.cfd/https://medium.com/p/7e1315ceb290) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 04:18:45 GMT | [What I wish I Knew Before Going into College as a Cybersecurity S...](https://freedium.cfd/https://medium.com/p/ad0b9a799539) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Sat, 25 Oct 2025 03:23:50 GMT | [Cyberhomeostasis](https://freedium.cfd/https://medium.com/p/0b95a823e2b4) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
+| Sun, 05 Oct 2025 18:11:27 GMT | [Bug Bounty 101: The 6 Platforms You Must Know](https://freedium.cfd/https://medium.com/p/d401b8485009) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Mon, 06 Oct 2025 14:51:25 GMT | [Writing Effective Bug Bounty Reports](https://freedium.cfd/https://medium.com/p/9e71f6b8706c) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sun, 19 Oct 2025 04:47:00 GMT | [How I Got My first Private Invite in Bug Bounty](https://freedium.cfd/https://medium.com/p/f51ea01e03a7) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Thu, 16 Oct 2025 13:48:58 GMT | [2 Best Self-Hosted Bounty Programs](https://freedium.cfd/https://medium.com/p/8769ba40b85a) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sat, 11 Oct 2025 01:51:52 GMT | [How I found A Reflected XSS on one of the Largest Telecommunicati...](https://freedium.cfd/https://medium.com/p/755bc1c465d3) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Fri, 10 Oct 2025 14:21:53 GMT | [Finding XSS on a Real-World Bug Bounty Program](https://freedium.cfd/https://medium.com/p/d718335bcb30) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Thu, 09 Oct 2025 18:33:05 GMT | [0-click Account Takeover via Punycode](https://freedium.cfd/https://medium.com/p/39b9a5cfbfb1) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sun, 05 Oct 2025 07:18:54 GMT | [My Recon Automation Found an Email Confirmation Bypass](https://freedium.cfd/https://medium.com/p/c3c7c337f8a9) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Wed, 01 Oct 2025 18:01:52 GMT | [⚡ Burp Suite como un pro: workflow real, sin perder el tiempo (...](https://freedium.cfd/https://medium.com/p/db2429b15954) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Tue, 21 Oct 2025 16:43:36 GMT | [This Is How I Find Reflected XSS In Bug Bounty](https://freedium.cfd/https://medium.com/p/7b42059a5d04) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
