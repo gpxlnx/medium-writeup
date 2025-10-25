@@ -15,11 +15,11 @@ Error parsing XML from https://medium.com/feed/tag/information-security: XML syn
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,12 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 17 Oct 2025 05:23:22 GMT | [Email Verification OTP Bypass €€ — How I verified any ema...](https://freedium.cfd/https://medium.com/p/470cec0dbca5) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Tue, 14 Oct 2025 04:24:09 GMT | [Secret Bug Bounty Platform that made me 11000$](https://freedium.cfd/https://medium.com/p/8f6c268bc501) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Sun, 12 Oct 2025 18:13:01 GMT | [  ](https://freedium.cfd/https://medium.com/p/08c0f46868d4) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Sun, 12 Oct 2025 02:57:20 GMT | [OWASP Top 10 Mobile Risks that made me 5000$](https://freedium.cfd/https://medium.com/p/d377e10d71f5) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Sun, 12 Oct 2025 07:24:40 GMT | [⚡ LIVE DATA from hacked testphp.vulnweb.com : The Honeypot...](https://freedium.cfd/https://medium.com/p/bf8e0ce6110a) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Sun, 12 Oct 2025 02:45:33 GMT | [Attacking iOS: Elite Recon and Exploitation Guide For Bug Bounty ...](https://freedium.cfd/https://medium.com/p/0c67e2160484) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Sun, 19 Oct 2025 19:26:36 GMT | [Cracking the Lock: How I Discovered Amazon KDP’s Missing Accoun...](https://freedium.cfd/https://medium.com/p/d504bef5adc0) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Sun, 19 Oct 2025 07:25:24 GMT | [Exploiting an Insecure Android Activity for Arbitrary File Theft ...](https://freedium.cfd/https://medium.com/p/07b360520a0e) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Sat, 18 Oct 2025 15:16:44 GMT | [Sneaking the Fence — Part 1](https://freedium.cfd/https://medium.com/p/a2ad740ca261) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
-| Fri, 17 Oct 2025 12:56:58 GMT | [Küçük bir hatanın doğurduğu sonuçlar \| Bugbounty Bounty W...](https://freedium.cfd/https://medium.com/p/6dc82dc38b41) | [bugbounty-writeup](https://medium.com/feed/tag/bugbounty-writeup) |  |  |
+| Fri, 24 Oct 2025 23:51:17 GMT | [How I Used Threat Modeling to Secure a To-Do List App (and What I...](https://freedium.cfd/https://medium.com/p/98609dba8c61) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Fri, 24 Oct 2025 10:43:45 GMT | [JWT Security: Complete Enterprise Implementation Guide for Modern...](https://freedium.cfd/https://medium.com/p/ac055e68ad89) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Thu, 23 Oct 2025 21:49:15 GMT | [When an Email Field Outsmarted Its Own Validator](https://freedium.cfd/https://medium.com/p/9f39acd38afa) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Tue, 21 Oct 2025 17:39:59 GMT | [Robust Authentication in Spring Boot with Keycloak](https://freedium.cfd/https://medium.com/p/0d2c220210ad) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Tue, 21 Oct 2025 14:14:47 GMT | [Sensitive Data Storage and Exposure](https://freedium.cfd/https://medium.com/p/4349eba8d149) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Thu, 23 Oct 2025 15:19:37 GMT | [What exactly do we own on the internet right now ?](https://freedium.cfd/https://medium.com/p/263562bc6115) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Thu, 23 Oct 2025 12:53:28 GMT | [From Threat to Ticket: How to Threat Model a Microservice with th...](https://freedium.cfd/https://medium.com/p/4be4a45344a6) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Tue, 21 Oct 2025 15:22:24 GMT | [Broken Access Controls — Protect The Fortress!](https://freedium.cfd/https://medium.com/p/62400f4d9f43) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
+| Tue, 21 Oct 2025 14:43:29 GMT | [Apache Syncope Groovy RCE Vulnerability Lets Attackers Inject Mal...](https://freedium.cfd/https://medium.com/p/2ebd8896e567) | [application-security](https://medium.com/feed/tag/application-security) | Yes |  |
