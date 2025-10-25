@@ -2,6 +2,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
@@ -63,12 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 25 Oct 2025 18:03:24 GMT | [Mastering Fileless Persistence on Linux: Techniques, Real-World E...](https://freedium.cfd/https://medium.com/p/c249012f7533) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Sat, 25 Oct 2025 00:42:42 GMT | [PenTesting](https://freedium.cfd/https://medium.com/p/2013cf75023c) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Sat, 25 Oct 2025 16:33:20 GMT | [HackSudo Series — writeup: hacksudo: 2 (HackDudo)](https://freedium.cfd/https://medium.com/p/c6e9473efdc7) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Sat, 25 Oct 2025 14:20:19 GMT | [Vulnhub Corrosion:2 Walkthrough](https://freedium.cfd/https://medium.com/p/c3e2f6057574) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Sat, 25 Oct 2025 09:55:19 GMT | [ Voleur HTB Walktrought](https://freedium.cfd/https://medium.com/p/b09f6f711ea5) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Sat, 25 Oct 2025 05:29:50 GMT | [Ethical Hacking Course in Ahmedabad — BIT](https://freedium.cfd/https://medium.com/p/953c7bd7c2a1) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 24 Oct 2025 20:07:20 GMT | [\[HackTheBox x VulnLab Write-up\] Retro (Pre2K compter and ADCS E...](https://freedium.cfd/https://medium.com/p/79f4eb386cfd) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Fri, 24 Oct 2025 20:06:30 GMT | [\[HackTheBox x VulnLab Write-up\] Data (Grafana exploitation and ...](https://freedium.cfd/https://medium.com/p/c412bbddfc2e) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Fri, 24 Oct 2025 18:23:51 GMT | [eJPT — 3.5 CTF 2 Post-Exploitation](https://freedium.cfd/https://medium.com/p/545b111dd3e3) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
