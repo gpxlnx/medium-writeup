@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -7,7 +8,6 @@ Error parsing XML from https://medium.com/feed/tag/information-technology: XML s
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
@@ -63,12 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 25 Oct 2025 09:28:12 GMT | [How a Single “What If” Can Find You a Bug](https://freedium.cfd/https://medium.com/p/665b96c1e909) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Sat, 25 Oct 2025 08:38:39 GMT | [Recon Wins Again: Uncovering a Billing Portal Leak Through Waybac...](https://freedium.cfd/https://medium.com/p/c7301e815fc5) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 25 Oct 2025 01:33:42 GMT | [Web Cache Deception: A Complete Beginner to Advanced Guide](https://freedium.cfd/https://medium.com/p/94cf851cd89f) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 25 Oct 2025 00:02:54 GMT | [Arjun’s Guide to Discovering Hidden HTTP Parameters and Bug Bou...](https://freedium.cfd/https://medium.com/p/678dc66763d7) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Sat, 25 Oct 2025 08:02:26 GMT | [Free Domain Leak Check: Run It in 60 Seconds](https://freedium.cfd/https://medium.com/p/fcc4bccee73d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Fri, 24 Oct 2025 16:23:00 GMT | [The Art of Bug Report Writing: From Finding to Cashing](https://freedium.cfd/https://medium.com/p/df7e2452ff08) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Fri, 24 Oct 2025 23:45:57 GMT | [Pentesting A Web Browser](https://freedium.cfd/https://medium.com/p/ce20b35ae321) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Fri, 24 Oct 2025 20:03:54 GMT | [Injected #2: Lessons from Hacking a Financial Company](https://freedium.cfd/https://medium.com/p/a95c974a3604) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
-| Fri, 24 Oct 2025 16:36:46 GMT | [New Bug Bounty Blog Is Live ](https://freedium.cfd/https://medium.com/p/58bab17d8530) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  |  |
+| Wed, 22 Oct 2025 02:46:38 GMT | [31 Days of Horror: Movie Review:Bug (2007) – Madness, Paranoia,...](https://freedium.cfd/https://medium.com/p/593a9bfa27b4) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Tue, 21 Oct 2025 19:48:24 GMT | [How a Simple SSTI Turned Into $1,000 and RCE](https://freedium.cfd/https://medium.com/p/4d6ce66f2ba9) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Tue, 21 Oct 2025 19:40:02 GMT | [How a Simple SSTI Turned Into $1,000 and RCE](https://freedium.cfd/https://medium.com/p/2ee5b1d20474) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Fri, 24 Oct 2025 10:09:54 GMT | [Avoid \Illuminate\Support\Collection::unique() until further noti...](https://freedium.cfd/https://medium.com/p/2488824799ea) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Thu, 23 Oct 2025 15:51:25 GMT | [How to Get Rid of Box Elder Bugs: Your Comprehensive Guide](https://freedium.cfd/https://medium.com/p/c9a3a2adc198) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Thu, 23 Oct 2025 07:14:56 GMT | [“It’s Not Just You — The iOS Keyboard is Broken” — “N...](https://freedium.cfd/https://medium.com/p/7aa25dcb4781) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Wed, 22 Oct 2025 16:19:46 GMT | [The AWS US-EAST-1 Outage of October 20, 2025: A DNS Glitch That E...](https://freedium.cfd/https://medium.com/p/6ef09782272c) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Fri, 24 Oct 2025 11:02:16 GMT | [How Did I Hack a Website Just by Reading JS Files](https://freedium.cfd/https://medium.com/p/6d6a6a90aac1) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Thu, 23 Oct 2025 12:11:39 GMT | [Why Spotify Keeps Crashing on Flagship Phones (2025) and What It ...](https://freedium.cfd/https://medium.com/p/d1925c088202) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Wed, 22 Oct 2025 04:44:02 GMT | [The Different Levels of Broken Stats](https://freedium.cfd/https://medium.com/p/30e90958f479) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
