@@ -19,6 +19,7 @@ Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
@@ -63,12 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 25 Oct 2025 06:04:02 GMT | [Top 10 Influencers in Cyber Security on LinkedIn](https://freedium.cfd/https://medium.com/p/d366487dd033) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
-| Sat, 25 Oct 2025 05:52:12 GMT | [Wha⁠t Recruiters⁠ L⁠ook for in Ethical Hackers — Insi...](https://freedium.cfd/https://medium.com/p/6ad254387e7d) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
-| Sat, 25 Oct 2025 01:33:56 GMT | [How to Use OSINT to Strengthen Your Personal Digital Security](https://freedium.cfd/https://medium.com/p/81d3c9d1d5ae) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
-| Sat, 25 Oct 2025 06:52:05 GMT | [Try-Hack-Me challenge walkthrough Wonderland — Medium CTF](https://freedium.cfd/https://medium.com/p/d4e86ba9826a) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
-| Sat, 25 Oct 2025 06:10:17 GMT | [The​ ROI of‍ Le‌arning Ethic‌al Hac​ki‍ng — Is ...](https://freedium.cfd/https://medium.com/p/3c9ed5fdc48a) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
-| Sat, 25 Oct 2025 04:09:56 GMT | [ Finished My Wireshark Journey!](https://freedium.cfd/https://medium.com/p/9cbca0e0c98d) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes | Yes |
-| Fri, 24 Oct 2025 16:37:17 GMT | [10 Cybersecurity Mistakes You’re Making Without Even Realizing ...](https://freedium.cfd/https://medium.com/p/92bdcea317dd) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes |  |
-| Fri, 24 Oct 2025 18:20:02 GMT | [siber güvenlikte nba (network behavior analysis)](https://freedium.cfd/https://medium.com/p/24e1ebf38c65) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) | Yes |  |
-| Fri, 24 Oct 2025 16:23:00 GMT | [The Art of Bug Report Writing: From Finding to Cashing](https://freedium.cfd/https://medium.com/p/df7e2452ff08) | [ethical-hacking](https://medium.com/feed/tag/ethical-hacking) |  |  |
