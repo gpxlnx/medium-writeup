@@ -1,6 +1,5 @@
 Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
@@ -64,3 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
+| Sun, 26 Oct 2025 20:55:28 GMT | [Hardships & Spritz talks, feat. Jane Austen](https://freedium.cfd/https://medium.com/p/a851f0ec1026) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 10:49:00 GMT | [The Double Life I Think I’m Living](https://freedium.cfd/https://medium.com/p/88f47a873ec9) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 05:31:17 GMT | [What does it mean to be authentic?](https://freedium.cfd/https://medium.com/p/9ee7d9f1168e) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 18:11:59 GMT | [Holding On Through the Messiness of Life](https://freedium.cfd/https://medium.com/p/fdf7309c5e18) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 16:26:38 GMT | [choose love, always](https://freedium.cfd/https://medium.com/p/7c01b549e861) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 15:07:57 GMT | [LFI: A Guide to Exploit It](https://freedium.cfd/https://medium.com/p/576e1b7e2b02) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 14:30:17 GMT | [How I Found My First CVE - Beginner Guide](https://freedium.cfd/https://medium.com/p/131d16d791b5) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 13:26:47 GMT | [Automating the Boring Stuff: Creating a Vulnerability Management ...](https://freedium.cfd/https://medium.com/p/9093752e8f74) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 12:01:57 GMT | [Securing Azure Application Gateway: Addressing Critical Vulnerabi...](https://freedium.cfd/https://medium.com/p/416573c0a61f) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
+| Sun, 26 Oct 2025 07:13:33 GMT | [The Things We Don’t Say](https://freedium.cfd/https://medium.com/p/49705e37118f) | [vulnerability](https://medium.com/feed/tag/vulnerability) | Yes | Yes |
