@@ -8,7 +8,6 @@ Error parsing XML from https://medium.com/feed/tag/information-technology: XML s
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
@@ -64,3 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
+| Wed, 22 Oct 2025 02:46:38 GMT | [31 Days of Horror: Movie Review:Bug (2007) – Madness, Paranoia,...](https://freedium.cfd/https://medium.com/p/593a9bfa27b4) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Sat, 25 Oct 2025 09:47:50 GMT | [GitHub Contribution bug? Here’s Why And How to Fix It.](https://freedium.cfd/https://medium.com/p/098f7eebf2cf) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Fri, 24 Oct 2025 11:02:16 GMT | [How Did I Hack a Website Just by Reading JS Files](https://freedium.cfd/https://medium.com/p/6d6a6a90aac1) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Thu, 23 Oct 2025 07:14:56 GMT | [“It’s Not Just You — The iOS Keyboard is Broken” — “N...](https://freedium.cfd/https://medium.com/p/7aa25dcb4781) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Wed, 22 Oct 2025 16:19:46 GMT | [The AWS US-EAST-1 Outage of October 20, 2025: A DNS Glitch That E...](https://freedium.cfd/https://medium.com/p/6ef09782272c) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Wed, 22 Oct 2025 04:44:02 GMT | [The Different Levels of Broken Stats](https://freedium.cfd/https://medium.com/p/30e90958f479) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Fri, 24 Oct 2025 10:09:54 GMT | [Avoid \Illuminate\Support\Collection::unique() until further noti...](https://freedium.cfd/https://medium.com/p/2488824799ea) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Thu, 23 Oct 2025 15:51:25 GMT | [How to Get Rid of Box Elder Bugs: Your Comprehensive Guide](https://freedium.cfd/https://medium.com/p/c9a3a2adc198) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Thu, 23 Oct 2025 12:11:39 GMT | [Why Spotify Keeps Crashing on Flagship Phones (2025) and What It ...](https://freedium.cfd/https://medium.com/p/d1925c088202) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
+| Tue, 21 Oct 2025 19:48:24 GMT | [How a Simple SSTI Turned Into $1,000 and RCE](https://freedium.cfd/https://medium.com/p/4d6ce66f2ba9) | [bugs](https://medium.com/feed/tag/bugs) | Yes |  |
