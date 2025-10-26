@@ -16,6 +16,7 @@ Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syn
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sun, 26 Oct 2025 03:42:08 GMT | [JSON ResponseDisclosure: From Recon to Advanced Detection](https://freedium.cfd/https://medium.com/p/3413df37461c) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
-| Sun, 26 Oct 2025 10:24:09 GMT | [CTF Writeup — MarkdownSmartPreview (EJS SSTI) — Steps & PoC](https://freedium.cfd/https://medium.com/p/4eb2670c8db7) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
-| Sat, 25 Oct 2025 17:55:55 GMT | [ Mastering Kali Linux for Ethical Hacking: From Beginner to Advan...](https://freedium.cfd/https://medium.com/p/b96cda724b42) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
-| Sat, 25 Oct 2025 08:38:39 GMT | [Recon Wins Again: Uncovering a Billing Portal Leak Through Waybac...](https://freedium.cfd/https://medium.com/p/c7301e815fc5) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
-| Sat, 25 Oct 2025 01:33:42 GMT | [Web Cache Deception: A Complete Beginner to Advanced Guide](https://freedium.cfd/https://medium.com/p/94cf851cd89f) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
-| Fri, 24 Oct 2025 15:04:10 GMT | [ Mastering XSS on a Bug Bounty Platform: Finding, Understanding &...](https://freedium.cfd/https://medium.com/p/7a6693284091) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
-| Sat, 25 Oct 2025 13:40:18 GMT | [Historia de una recompensa por $.$$$, Metodología aplicada y byp...](https://freedium.cfd/https://medium.com/p/746a6f7a0dbf) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
-| Sat, 25 Oct 2025 13:34:10 GMT | [Ignoring a Firebase Public Configuration?](https://freedium.cfd/https://medium.com/p/9ccb9159abb5) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
-| Fri, 24 Oct 2025 15:38:37 GMT | [Real Bugs from Timing Flaws in Web Services](https://freedium.cfd/https://medium.com/p/89c885c4ac02) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
-| Sat, 25 Oct 2025 18:08:57 GMT | [Web Cache Poisoning : Ancaman di Balik Kecepatan](https://freedium.cfd/https://medium.com/p/67da01a9a8f4) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
