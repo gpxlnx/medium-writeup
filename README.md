@@ -3,6 +3,7 @@ Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
@@ -11,7 +12,6 @@ Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on lin
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Mon, 27 Oct 2025 06:48:05 GMT | [Why 90% of Websites Fail at Basic Security Headers ](https://freedium.cfd/https://medium.com/p/905b76a9c52c) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
-| Mon, 27 Oct 2025 01:45:02 GMT | [Proving Grounds - WallpaperHub](https://freedium.cfd/https://medium.com/p/26b28458bf50) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
-| Mon, 27 Oct 2025 06:17:08 GMT | [Top 5 Myth‍s About‌ Ethica‍l Hack‍in‍g — Busted b...](https://freedium.cfd/https://medium.com/p/918e16b6ac1a) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
-| Mon, 27 Oct 2025 05:04:54 GMT | [How to Hide WordPress Login Page From Hackers \[2 Effective Metho...](https://freedium.cfd/https://medium.com/p/27e5fb2bde16) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
-| Mon, 27 Oct 2025 00:33:27 GMT | [HTB — Learn the basics of the Penetration Testing: Starting...](https://freedium.cfd/https://medium.com/p/3710179b1854) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
-| Mon, 27 Oct 2025 06:19:34 GMT | [Ethical Hacking Tools Yo‌u Should Master in 2025 (And Why They ...](https://freedium.cfd/https://medium.com/p/4584c323e8de) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
-| Mon, 27 Oct 2025 06:18:16 GMT | [Top 7 Skills You Need to‍ Become a Su‍ccessful Ethical Hack�...](https://freedium.cfd/https://medium.com/p/b555f5073ba7) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
-| Sun, 26 Oct 2025 22:08:48 GMT | [Advanced Bug Bounty Recon: A Methodology That Uncovers Hidden Vul...](https://freedium.cfd/https://medium.com/p/7450bcf5200f) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
-| Sun, 26 Oct 2025 21:25:56 GMT | [AWS Cascading Failures Costing US 100 and 1000s of Dollars…](https://freedium.cfd/https://medium.com/p/6b27324e0595) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
-| Sun, 26 Oct 2025 19:11:26 GMT | [Automating the Hack: When AI Writes the Payload](https://freedium.cfd/https://medium.com/p/217246ef0898) | [hacking](https://medium.com/feed/tag/hacking) | Yes |  |
+| Thu, 25 Sep 2025 17:45:04 GMT | [Walkthrough of XSS Challenges (by yamagata21)](https://freedium.cfd/https://medium.com/p/6e43c388235f) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 14 Sep 2025 18:14:51 GMT | [Understanding Cross-Site Scripting (XSS) Vulnerabilities](https://freedium.cfd/https://medium.com/p/5a49375867f1) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sat, 04 Oct 2025 13:31:52 GMT | [Reflected XSS in Parser Endpoint — $366 Bounty Earned](https://freedium.cfd/https://medium.com/p/28ca95251ab2) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Tue, 30 Sep 2025 17:32:43 GMT | [XSS Attacks: Understanding and Preventing Cross-Site Scripting](https://freedium.cfd/https://medium.com/p/cf2a2027bc59) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Tue, 23 Sep 2025 05:35:22 GMT | [Protecting against cross-site scripting with trusted types](https://freedium.cfd/https://medium.com/p/94f0b3c32129) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sat, 06 Sep 2025 10:46:29 GMT | [Understanding XSS Vulnerabilities](https://freedium.cfd/https://medium.com/p/8ddc5aadeb37) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Wed, 22 Oct 2025 20:57:02 GMT | [XSS Attack Demonstration: Preventing XSS in Web Application Backe...](https://freedium.cfd/https://medium.com/p/b0da08a1ef98) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 12 Oct 2025 15:44:20 GMT | [Bypass CSRF Prevention with Cross Site Scripting (XSS)](https://freedium.cfd/https://medium.com/p/040162938477) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Wed, 08 Oct 2025 03:53:34 GMT | [Beyond alert(1): The Real-World Dangers of Cross-Site Scripting (...](https://freedium.cfd/https://medium.com/p/1fdbc0a8d956) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 05 Oct 2025 07:34:59 GMT | [Intro to Cross-site Scripting Tryhackme Walkthrough](https://freedium.cfd/https://medium.com/p/88cf18ca2a99) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
