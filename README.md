@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -10,6 +11,8 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax e
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
@@ -61,32 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Mon, 27 Oct 2025 17:10:32 GMT | [Do you think bypassing SSL pinning can get you a bounty?](https://freedium.cfd/https://medium.com/p/6cf894148953) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 14:15:55 GMT | [I Built an AI Smart Contract Auditor That Actually Works (Here’...](https://freedium.cfd/https://medium.com/p/61918d2f70f1) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 13:26:19 GMT | [Network Sniffing with tcpdump and Wireshark: Step-by-Step Hacker ...](https://freedium.cfd/https://medium.com/p/7e34f455ec37) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 13:41:16 GMT | [Are There Security Issues with Increased Interoperability?](https://freedium.cfd/https://medium.com/p/66fd46b68e81) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 14:24:05 GMT | [Announcing Creek Testnet’s Bug Bounty Program](https://freedium.cfd/https://medium.com/p/4580edca378c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 13:41:32 GMT | [What No One Tells You Before You Start Bug Bounty Hunting](https://freedium.cfd/https://medium.com/p/5449926f6f24) | [bug-bounty](https://medium.com/feed/tag/bug-bounty), [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 13:07:18 GMT | [ The Hidden Goldmine: Why API Bugs Pay So Much](https://freedium.cfd/https://medium.com/p/e570cc4ca988) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 15:02:21 GMT | [ From Zero to Hero: How to Build Cybersecurity Skills Without a D...](https://freedium.cfd/https://medium.com/p/8f8292d91137) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 14:02:23 GMT | [Cyber Briefing: 2025.10.27](https://freedium.cfd/https://medium.com/p/9482f6ce43fa) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 16:21:05 GMT | [Pwn2Own Ireland 2025 : 73 failles zero-day révélées pour 1 mil...](https://freedium.cfd/https://medium.com/p/25a2592dde57) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 12:33:45 GMT | [Ketika Finance Bisa Jadi Admin: Privilege Escalation di Sistem Pa...](https://freedium.cfd/https://medium.com/p/3344042258a0) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 15:31:22 GMT | [Aligning Internal IT Processes in a Non-Technical Industry Taught...](https://freedium.cfd/https://medium.com/p/5c16d5cccd15) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 15:25:17 GMT | [CVE-2025–60542 — TypeORM+MySQL SQLi =< 0.3.25](https://freedium.cfd/https://medium.com/p/a1b32bc60453) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 13:11:07 GMT | [The Essential Guide to IT Hardware in 2025: What Every Business S...](https://freedium.cfd/https://medium.com/p/4e82cc9dd67a) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 14:46:47 GMT | [SSRF — Part 3: Advanced Tricks, Timing Channels & Out-of-th...](https://freedium.cfd/https://medium.com/p/693c07c97015) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 13:44:35 GMT | [DEADFACE CTF 2025 part3- Hack the Night](https://freedium.cfd/https://medium.com/p/10d29525be79) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Mon, 27 Oct 2025 17:09:27 GMT | [AWS’ DNS Outage: Why This Wasn’t an Indicator of ISO 27001 In...](https://freedium.cfd/https://medium.com/p/b4c476b69e65) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 15:25:12 GMT | [Understanding Backdoors and Payloads: A Basic Guide](https://freedium.cfd/https://medium.com/p/94900ec4c533) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Mon, 27 Oct 2025 18:08:54 GMT | [️‍♂️ TryHackMe — NetworkMiner Write-up](https://freedium.cfd/https://medium.com/p/f89936f2abb6) | [information-security](https://medium.com/feed/tag/information-security) | Yes | Yes |
-| Wed, 22 Oct 2025 20:57:02 GMT | [XSS Attack Demonstration: Preventing XSS in Web Application Backe...](https://freedium.cfd/https://medium.com/p/b0da08a1ef98) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Tue, 23 Sep 2025 05:35:22 GMT | [Protecting against cross-site scripting with trusted types](https://freedium.cfd/https://medium.com/p/94f0b3c32129) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Thu, 25 Sep 2025 17:45:04 GMT | [Walkthrough of XSS Challenges (by yamagata21)](https://freedium.cfd/https://medium.com/p/6e43c388235f) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Sun, 14 Sep 2025 18:14:51 GMT | [Understanding Cross-Site Scripting (XSS) Vulnerabilities](https://freedium.cfd/https://medium.com/p/5a49375867f1) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Sat, 04 Oct 2025 13:31:52 GMT | [Reflected XSS in Parser Endpoint — $366 Bounty Earned](https://freedium.cfd/https://medium.com/p/28ca95251ab2) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Sun, 05 Oct 2025 07:34:59 GMT | [Intro to Cross-site Scripting Tryhackme Walkthrough](https://freedium.cfd/https://medium.com/p/88cf18ca2a99) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Sat, 06 Sep 2025 10:46:29 GMT | [Understanding XSS Vulnerabilities](https://freedium.cfd/https://medium.com/p/8ddc5aadeb37) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Tue, 30 Sep 2025 17:32:43 GMT | [XSS Attacks: Understanding and Preventing Cross-Site Scripting](https://freedium.cfd/https://medium.com/p/cf2a2027bc59) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Sun, 12 Oct 2025 15:44:20 GMT | [Bypass CSRF Prevention with Cross Site Scripting (XSS)](https://freedium.cfd/https://medium.com/p/040162938477) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
-| Wed, 08 Oct 2025 03:53:34 GMT | [Beyond alert(1): The Real-World Dangers of Cross-Site Scripting (...](https://freedium.cfd/https://medium.com/p/1fdbc0a8d956) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
