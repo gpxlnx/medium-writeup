@@ -1,4 +1,3 @@
-Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -20,6 +19,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML synta
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Thu, 23 Oct 2025 15:19:37 GMT | [What exactly do we own on the internet right now ?](https://freedium.cfd/https://medium.com/p/263562bc6115) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Thu, 23 Oct 2025 12:53:28 GMT | [From Threat to Ticket: How to Threat Model a Microservice with th...](https://freedium.cfd/https://medium.com/p/4be4a45344a6) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Mon, 27 Oct 2025 14:57:19 GMT | [What the Louvre Heist teaches us about Application Security](https://freedium.cfd/https://medium.com/p/6c274fbe54df) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Mon, 27 Oct 2025 03:46:18 GMT | [OWASP Faction 1.7 — Major Updates for Enterprise Security T...](https://freedium.cfd/https://medium.com/p/aa205cef68e7) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Sun, 26 Oct 2025 02:03:18 GMT | [Securing Software in the Era of AI-Generated Code](https://freedium.cfd/https://medium.com/p/d6026b58ab27) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Sat, 25 Oct 2025 23:51:46 GMT | [System CA on Android: How to Install & Work Around Modern Restric...](https://freedium.cfd/https://medium.com/p/c570f000ab9a) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Fri, 24 Oct 2025 10:43:45 GMT | [JWT Security: Complete Enterprise Implementation Guide for Modern...](https://freedium.cfd/https://medium.com/p/ac055e68ad89) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Thu, 23 Oct 2025 21:49:15 GMT | [When an Email Field Outsmarted Its Own Validator](https://freedium.cfd/https://medium.com/p/9f39acd38afa) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Sat, 25 Oct 2025 09:44:08 GMT | [How to Get Engineering to Care About AppSec (Without Being the Vi...](https://freedium.cfd/https://medium.com/p/b90c1e25304d) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Fri, 24 Oct 2025 23:51:17 GMT | [How I Used Threat Modeling to Secure a To-Do List App (and What I...](https://freedium.cfd/https://medium.com/p/98609dba8c61) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
+| Tue, 28 Oct 2025 15:42:46 GMT | [How a Single Message Could Take Down Discourse Instances (Bagging...](https://freedium.cfd/https://medium.com/p/fc0d4adfde84) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 13:16:54 GMT | [How a Simple Logic Flaw Can Unlock Private User Data](https://freedium.cfd/https://medium.com/p/19788156c270) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 13:14:13 GMT | [Hardening Against Path Traversal: Breaking the Cyber Chain from D...](https://freedium.cfd/https://medium.com/p/d91bbe0abd3b) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 16:54:51 GMT | [The Day I Became Everyone: How User Swapping Turned Me into a Dig...](https://freedium.cfd/https://medium.com/p/91358848a593) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 16:23:49 GMT | [How a Small Chain Turned Duplicates into a Valid Bug with Post-Re...](https://freedium.cfd/https://medium.com/p/f2829526595f) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 14:27:51 GMT | [Getting Started with Bug Bounties: A Complete Beginner’s Guide](https://freedium.cfd/https://medium.com/p/81e90945c581) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 23:17:48 GMT | [CSRF Bypass Techniques (Deep Dive)](https://freedium.cfd/https://medium.com/p/12ec2f985362) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 21:09:07 GMT | [Hacking APIs: Exploiting Batch and Mass Assignment](https://freedium.cfd/https://medium.com/p/3b67a56dbd01) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 19:33:47 GMT | [Reverse Engineering API Security: How I Broke and bypass “Reque...](https://freedium.cfd/https://medium.com/p/7c4f64276661) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 19:11:01 GMT | [Infrastructure Collapse: How a Forgotten Folder in Coca-Cola’s ...](https://freedium.cfd/https://medium.com/p/a4d9dc1ab8a6) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
