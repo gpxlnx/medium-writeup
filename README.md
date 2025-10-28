@@ -1,6 +1,5 @@
-Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
@@ -63,13 +62,23 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Tue, 28 Oct 2025 20:39:02 GMT | [INTRODUCTION TO CYBER SECURITY By Martin Onyisi](https://freedium.cfd/https://medium.com/p/2ed1f06050db) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 20:06:32 GMT | [What If the Missile Never Existed?](https://freedium.cfd/https://medium.com/p/829d32639c14) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 19:58:15 GMT | [John the Ripper: The Basics](https://freedium.cfd/https://medium.com/p/c01c98e1c568) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 19:36:53 GMT | [10 AI Tools That Actually Make You Money in 2025 (No Coding Neede...](https://freedium.cfd/https://medium.com/p/1c3a43bf3434) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 19:27:44 GMT | [The Hidden Identity Crisis in the Age of AI Agents](https://freedium.cfd/https://medium.com/p/0fa6b022567d) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 20:25:51 GMT | [Pentagon’s $310M F-16 Deal Hides Software Locks: Ukraine Can’...](https://freedium.cfd/https://medium.com/p/32d2f7aeb822) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 20:16:49 GMT | [\[Part 10\] EU Cyber Resilience Act: Centralizing Compliance with...](https://freedium.cfd/https://medium.com/p/1eee9f9796db) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 20:06:28 GMT | [Phase 0: Laying the Blueprint — How Project Jupiter Begins ...](https://freedium.cfd/https://medium.com/p/12d6d61b3d82) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 19:48:51 GMT | [Building More Trustworthy AI Through Governed Data Architecture a...](https://freedium.cfd/https://medium.com/p/bc83b558a0b9) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
-| Tue, 28 Oct 2025 19:33:47 GMT | [Reverse Engineering API Security: How I Broke and bypass “Reque...](https://freedium.cfd/https://medium.com/p/7c4f64276661) | [cybersecurity](https://medium.com/feed/tag/cybersecurity) | Yes | Yes |
+| Tue, 28 Oct 2025 12:23:26 GMT | [C{api}tal walkthrough.](https://freedium.cfd/https://medium.com/p/999f4ce8597e) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 17:17:30 GMT | [Behind the padlock: the hidden risks of built-in password manager...](https://freedium.cfd/https://medium.com/p/6a76fce3a2f6) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 15:42:46 GMT | [How a Single Message Could Take Down Discourse Instances (Bagging...](https://freedium.cfd/https://medium.com/p/fc0d4adfde84) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 13:16:54 GMT | [How a Simple Logic Flaw Can Unlock Private User Data](https://freedium.cfd/https://medium.com/p/19788156c270) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 20:20:59 GMT | [imToken Activity Report : October 2025](https://freedium.cfd/https://medium.com/p/52262285ec38) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 20:15:54 GMT | [180 Days Till I Write My SSCP Exam](https://freedium.cfd/https://medium.com/p/34de2bb53a3b) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 17:20:29 GMT | [AresGPT: Red Teaming Strategies](https://freedium.cfd/https://medium.com/p/afb01cd3568e) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 16:54:51 GMT | [The Day I Became Everyone: How User Swapping Turned Me into a Dig...](https://freedium.cfd/https://medium.com/p/91358848a593) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 16:23:49 GMT | [How a Small Chain Turned Duplicates into a Valid Bug with Post-Re...](https://freedium.cfd/https://medium.com/p/f2829526595f) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 14:27:51 GMT | [Getting Started with Bug Bounties: A Complete Beginner’s Guide](https://freedium.cfd/https://medium.com/p/81e90945c581) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 11:47:10 GMT | [How I Turned Glitches Into Rent Money: A Year in Bug Bounties](https://freedium.cfd/https://medium.com/p/6b10a5d98f90) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 20:52:06 GMT | [PowerShell Code Signing Introduction for Security-Conscious Profe...](https://freedium.cfd/https://medium.com/p/27d2583682fd) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 20:36:33 GMT | [No More AWS Keys on Servers: The Zero-Credential Way to Access AW...](https://freedium.cfd/https://medium.com/p/2227a88f28e5) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 17:25:10 GMT | [Deep Dive into Security Hardening on Linux Systems](https://freedium.cfd/https://medium.com/p/41494de607fb) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 19:11:01 GMT | [Infrastructure Collapse: How a Forgotten Folder in Coca-Cola’s ...](https://freedium.cfd/https://medium.com/p/a4d9dc1ab8a6) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 13:14:13 GMT | [Hardening Against Path Traversal: Breaking the Cyber Chain from D...](https://freedium.cfd/https://medium.com/p/d91bbe0abd3b) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
+| Tue, 28 Oct 2025 18:56:49 GMT | [Event Security in the UK — Protecting People, Brands, and E...](https://freedium.cfd/https://medium.com/p/8fd55259c262) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 17:52:09 GMT | [The Silent Threat: Why Zero-Day Vulnerabilities Keep Security Exp...](https://freedium.cfd/https://medium.com/p/3345653e454b) | [security](https://medium.com/feed/tag/security) | Yes | Yes |
+| Tue, 28 Oct 2025 20:06:28 GMT | [Phase 0: Laying the Blueprint — How Project Jupiter Begins ...](https://freedium.cfd/https://medium.com/p/12d6d61b3d82) | [security](https://medium.com/feed/tag/security) |  | Yes |
+| Tue, 28 Oct 2025 19:33:47 GMT | [Reverse Engineering API Security: How I Broke and bypass “Reque...](https://freedium.cfd/https://medium.com/p/7c4f64276661) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
