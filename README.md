@@ -16,6 +16,7 @@ Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syn
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Wed, 29 Oct 2025 09:02:10 GMT | [Dorks For Sensitive Information Disclosure Part-4](https://freedium.cfd/https://medium.com/p/5bc360ce551e) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  | Yes |
-| Wed, 29 Oct 2025 04:21:53 GMT | [Finding my first vulnerability on NASA: The Power of Google Dorki...](https://freedium.cfd/https://medium.com/p/6a5a65c7f413) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  | Yes |
-| Wed, 29 Oct 2025 03:48:10 GMT | [Find Sensitive Information using: Google Dorking, Shodan, and FOF...](https://freedium.cfd/https://medium.com/p/cce4b19b3940) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  | Yes |
-| Tue, 28 Oct 2025 15:42:46 GMT | [How a Single Message Could Take Down Discourse Instances (Bagging...](https://freedium.cfd/https://medium.com/p/fc0d4adfde84) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Sun, 26 Oct 2025 10:24:09 GMT | [CTF Writeup — MarkdownSmartPreview (EJS SSTI) — Steps & PoC](https://freedium.cfd/https://medium.com/p/4eb2670c8db7) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Sun, 26 Oct 2025 03:42:08 GMT | [JSON ResponseDisclosure: From Recon to Advanced Detection](https://freedium.cfd/https://medium.com/p/3413df37461c) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Tue, 28 Oct 2025 16:23:49 GMT | [How a Small Chain Turned Duplicates into a Valid Bug with Post-Re...](https://freedium.cfd/https://medium.com/p/f2829526595f) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Mon, 27 Oct 2025 02:57:35 GMT | [Week 15 — Automated JS Enum: Methodology & Architecture](https://freedium.cfd/https://medium.com/p/31becf8693ec) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Sun, 26 Oct 2025 17:16:29 GMT | [How To Not Get in Trouble Doing Beg Bounties](https://freedium.cfd/https://medium.com/p/bee02cbef619) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Sat, 25 Oct 2025 18:08:57 GMT | [Web Cache Poisoning : Ancaman di Balik Kecepatan](https://freedium.cfd/https://medium.com/p/67da01a9a8f4) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
