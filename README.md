@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,12 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Wed, 29 Oct 2025 03:48:10 GMT | [Find Sensitive Information using: Google Dorking, Shodan, and FOF...](https://freedium.cfd/https://medium.com/p/cce4b19b3940) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 01:41:41 GMT | [CORS Vulnerability](https://freedium.cfd/https://medium.com/p/fdf22666776c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 00:02:02 GMT | [ParamSpider Essential Guide to URL Extraction](https://freedium.cfd/https://medium.com/p/161ba6c56e9f) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 09:17:51 GMT | [So… I Could Control the OTP ‍♂️](https://freedium.cfd/https://medium.com/p/503ba61997ff) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 09:02:10 GMT | [Dorks For Sensitive Information Disclosure Part-4](https://freedium.cfd/https://medium.com/p/5bc360ce551e) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 06:58:22 GMT | [Breaking and Defending API Keys: A Hacker’s Playbook for Real-W...](https://freedium.cfd/https://medium.com/p/b67e50badc94) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 04:21:53 GMT | [Finding my first vulnerability on NASA: The Power of Google Dorki...](https://freedium.cfd/https://medium.com/p/6a5a65c7f413) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 05:14:54 GMT | [30 Days to Your First Bug Bounty Payout $$$$ — A Practical ...](https://freedium.cfd/https://medium.com/p/dfa488e3d9b2) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 05:14:30 GMT | [DOM-based XSS on Microsoft.com](https://freedium.cfd/https://medium.com/p/f704227230a7) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
