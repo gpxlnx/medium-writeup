@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -16,7 +17,6 @@ Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error o
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Thu, 30 Oct 2025 00:32:19 GMT | [☕ When a REST Route Spills the Beans: Finding an Author-enumera...](https://freedium.cfd/https://medium.com/p/ce0acde23653) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Wed, 29 Oct 2025 18:57:14 GMT | [Automation Will Fail You: The Harsh Truth Every Bug Bounty Hunter...](https://freedium.cfd/https://medium.com/p/ad02cbfc7bda) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 13:06:50 GMT | [From a Simple IDOR to a Major Security Finding](https://freedium.cfd/https://medium.com/p/6386077e4b8d) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 12:17:18 GMT | [ Web Cache Poisoning — Part 1: Understanding the Beast](https://freedium.cfd/https://medium.com/p/d303f1741e48) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 09:02:10 GMT | [Dorks For Sensitive Information Disclosure Part-4](https://freedium.cfd/https://medium.com/p/5bc360ce551e) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 09:17:51 GMT | [So… I Could Control the OTP ‍♂️](https://freedium.cfd/https://medium.com/p/503ba61997ff) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 20:44:43 GMT | [Ghost HTTP Methods: How HTTP Verb Mutation Bypasses Modern WAFs a...](https://freedium.cfd/https://medium.com/p/32b66cd392ca) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 20:20:41 GMT | [Hacking APIs: Cache Poisoning and Deception Attacks](https://freedium.cfd/https://medium.com/p/19527e2d7e6e) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 18:18:31 GMT | [The Cat-and-Mouse Game of a Cloud Metadata SSRF Vulnerability](https://freedium.cfd/https://medium.com/p/6efbb26e216a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Wed, 29 Oct 2025 16:38:51 GMT | [How I Became the Digital Spider-Man: Swinging Through Every Secur...](https://freedium.cfd/https://medium.com/p/7882e394832b) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
+| Thu, 16 Oct 2025 13:48:58 GMT | [2 Best Self-Hosted Bounty Programs](https://freedium.cfd/https://medium.com/p/8769ba40b85a) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sat, 11 Oct 2025 01:51:52 GMT | [How I found A Reflected XSS on one of the Largest Telecommunicati...](https://freedium.cfd/https://medium.com/p/755bc1c465d3) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Mon, 06 Oct 2025 14:51:25 GMT | [Writing Effective Bug Bounty Reports](https://freedium.cfd/https://medium.com/p/9e71f6b8706c) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sun, 05 Oct 2025 18:11:27 GMT | [Bug Bounty 101: The 6 Platforms You Must Know](https://freedium.cfd/https://medium.com/p/d401b8485009) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sun, 05 Oct 2025 07:18:54 GMT | [My Recon Automation Found an Email Confirmation Bypass](https://freedium.cfd/https://medium.com/p/c3c7c337f8a9) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sun, 26 Oct 2025 17:16:29 GMT | [How To Not Get in Trouble Doing Beg Bounties](https://freedium.cfd/https://medium.com/p/bee02cbef619) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Tue, 21 Oct 2025 16:43:36 GMT | [This Is How I Find Reflected XSS In Bug Bounty](https://freedium.cfd/https://medium.com/p/7b42059a5d04) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Sun, 19 Oct 2025 04:47:00 GMT | [How I Got My first Private Invite in Bug Bounty](https://freedium.cfd/https://medium.com/p/f51ea01e03a7) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Fri, 10 Oct 2025 14:21:53 GMT | [Finding XSS on a Real-World Bug Bounty Program](https://freedium.cfd/https://medium.com/p/d718335bcb30) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
+| Thu, 09 Oct 2025 18:33:05 GMT | [0-click Account Takeover via Punycode](https://freedium.cfd/https://medium.com/p/39b9a5cfbfb1) | [bug-bounty-hunter](https://medium.com/feed/tag/bug-bounty-hunter) | Yes |  |
