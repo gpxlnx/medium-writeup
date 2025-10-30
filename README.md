@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Thu, 30 Oct 2025 10:24:17 GMT | [ Passive Recon 2.0: Mining Telemetry and Third-Party Metadata for...](https://freedium.cfd/https://medium.com/p/5e92cc76b7fe) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 10:22:53 GMT | [Business Logic Flaw in Snapchat $](https://freedium.cfd/https://medium.com/p/6f692d166177) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 09:03:01 GMT | [$1000 Bounty: GitLab Security Flaw Exposed](https://freedium.cfd/https://medium.com/p/dd309788abb4) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 13:59:08 GMT | [Lab: SameSite Strict bypass via client-side redirect](https://freedium.cfd/https://medium.com/p/81fed4306b3e) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 10:45:33 GMT | [HTTP requests & responses in web security](https://freedium.cfd/https://medium.com/p/5ce0c8012c03) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 11:15:23 GMT | [8 Realistic Interview Questions on Attacks Against Active Directo...](https://freedium.cfd/https://medium.com/p/4a28f5e96113) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 10:33:12 GMT | [⚡ Race Conditions in Web 3.0: Double-Spend Beyond Blockchain](https://freedium.cfd/https://medium.com/p/5be1b0df6dd4) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 09:18:37 GMT | [Mastering Subdomain Takeover: Step-by-Step Guide with Real Tools ...](https://freedium.cfd/https://medium.com/p/8f1c8a4583ca) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 12:47:33 GMT | [IDOR : Very simple IDOR resulted in $500](https://freedium.cfd/https://medium.com/p/1d0c3b725631) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
-| Thu, 30 Oct 2025 11:40:51 GMT | [broken access control IDOR in Reddit $$](https://freedium.cfd/https://medium.com/p/5fcd05b9a767) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) |  | Yes |
