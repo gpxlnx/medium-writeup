@@ -1,3 +1,4 @@
+Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
@@ -63,13 +64,3 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 31 Oct 2025 01:55:46 GMT | [When Error Messages Leak More Than Logs: ORMs, Frameworks, and th...](https://freedium.cfd/https://medium.com/p/cfb336ce1117) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Fri, 31 Oct 2025 00:02:08 GMT | [Guía Completa de RustScan: Escaneo de Puertos Ultrarrápido](https://freedium.cfd/https://medium.com/p/da6ab7b7fed7) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Fri, 31 Oct 2025 02:39:08 GMT | [ Web Cache Poisoning — Part 2: Weaponizing Headers & URL Di...](https://freedium.cfd/https://medium.com/p/bbb7b2c0159a) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes | Yes |
-| Thu, 30 Oct 2025 15:22:20 GMT | [How Swagger UI Can Accidentally Expose Your API](https://freedium.cfd/https://medium.com/p/2bf02c2cb2ba) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Thu, 30 Oct 2025 15:18:32 GMT | [How i found account takeover in private bug bounty program of bug...](https://freedium.cfd/https://medium.com/p/21df5ed3ed3c) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Thu, 30 Oct 2025 17:47:06 GMT | [How I Made ChatGPT My Personal Hacking Assistant (And Broke Their...](https://freedium.cfd/https://medium.com/p/ee37d4a725c2) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Thu, 30 Oct 2025 21:17:05 GMT | [Hacking APIs: HTTP Parameter Pollution](https://freedium.cfd/https://medium.com/p/fba389e55ada) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Thu, 30 Oct 2025 17:19:41 GMT | [Deep Shadow Wings: Powerful Web Recon — Simple, Fast, Effec...](https://freedium.cfd/https://medium.com/p/305648621512) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Thu, 30 Oct 2025 16:38:39 GMT | [How Leaked Credentials can benefit Bug Bounty Hunters](https://freedium.cfd/https://medium.com/p/71252b8781da) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
-| Thu, 30 Oct 2025 15:38:40 GMT | [Web Cache Deception Attack – A Hidden Threat in Today’s Web A...](https://freedium.cfd/https://medium.com/p/9b7b4b37a3a0) | [bug-bounty](https://medium.com/feed/tag/bug-bounty) | Yes |  |
