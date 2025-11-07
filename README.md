@@ -3,7 +3,6 @@ Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
@@ -13,6 +12,7 @@ Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 07 Nov 2025 21:11:37 GMT | [KODOK: Advanced JavaScript Security Scanner for Bug Bounty Hunter...](https://freedium.cfd/https://medium.com/p/bfac3d8f3927) | [hackerone](https://medium.com/feed/tag/hackerone) |  | Yes |
-| Wed, 29 Oct 2025 09:17:51 GMT | [So… I Could Control the OTP ‍♂️](https://freedium.cfd/https://medium.com/p/503ba61997ff) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Mon, 27 Oct 2025 12:10:15 GMT | [Most hunters chase scanners and payload lists.](https://freedium.cfd/https://medium.com/p/f946c25db6f3) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Fri, 24 Oct 2025 08:35:45 GMT | [Know Your Bug — How to Report Like a Pro (From 50 Reports)](https://freedium.cfd/https://medium.com/p/9a96d66e346f) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Thu, 30 Oct 2025 08:09:02 GMT | [The Tool Addiction — Why Hackers Obsess Over Tools & AI (an...](https://freedium.cfd/https://medium.com/p/4cb5f345f2c5) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Sun, 02 Nov 2025 18:57:41 GMT | [Nmap — The First Step Every Ethical Hacker Takes](https://freedium.cfd/https://medium.com/p/2da1d356363e) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Tue, 28 Oct 2025 11:00:37 GMT | [From One to Many — The Forbidden Playbook for Scaling a Sin...](https://freedium.cfd/https://medium.com/p/c85478aeb6ab) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Sat, 25 Oct 2025 09:28:12 GMT | [How a Single “What If” Can Find You a Bug](https://freedium.cfd/https://medium.com/p/665b96c1e909) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Mon, 20 Oct 2025 11:13:31 GMT | [OTPs For Everyone: The Simplest $OTP Leak$ You’ll Ever Find](https://freedium.cfd/https://medium.com/p/5ff2d7d9c812) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
-| Mon, 20 Oct 2025 10:51:22 GMT | [Coding: The Ignored Backbone of Hacking](https://freedium.cfd/https://medium.com/p/01fa181b68f6) | [hackerone](https://medium.com/feed/tag/hackerone) |  |  |
+| Fri, 07 Nov 2025 15:50:32 GMT | [My OSED Exam Experience](https://freedium.cfd/https://medium.com/p/b6566b6bc509) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 20:00:07 GMT | [Minecraft-Server-RCE-Plugin — an educational (but dangerous...](https://freedium.cfd/https://medium.com/p/27e727b92a23) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 19:30:59 GMT | [SQL Injection: The Ultimate Guide To Types, Examples And Coping S...](https://freedium.cfd/https://medium.com/p/7cea8a570800) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 18:34:40 GMT | [The Power of Courage](https://freedium.cfd/https://medium.com/p/b2db0ef80663) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 18:21:06 GMT | [Bugbounty ó demanda por intrusión la línea delgada en LATAM y ...](https://freedium.cfd/https://medium.com/p/f5519ad40b3e) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 17:42:25 GMT | [Billu_box — VulnHub walkthrough](https://freedium.cfd/https://medium.com/p/1301b4da71bd) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 16:45:50 GMT | [The Authorization Circus: Where Security Was the Main Clown ](https://freedium.cfd/https://medium.com/p/f4b84ca9356f) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 18:02:07 GMT | [The Future of Hacking in a World Full of AI](https://freedium.cfd/https://medium.com/p/97aafc20148e) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 18:00:20 GMT | [Inside the Mind of a SOC Analyst: Why SOC Playbooks Is the Ultima...](https://freedium.cfd/https://medium.com/p/1e45e619f064) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
+| Fri, 07 Nov 2025 17:31:58 GMT | [Kiba Tryhackme Walkthrough Writeup](https://freedium.cfd/https://medium.com/p/ae577eb5ce41) | [hacking](https://medium.com/feed/tag/hacking) | Yes | Yes |
