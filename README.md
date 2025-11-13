@@ -6,7 +6,7 @@ Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML synt
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-tips: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/web-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,12 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Tue, 11 Nov 2025 18:35:01 GMT | [PhantomCollect in Action: Real-World Use Cases for Security Profe...](https://freedium.cfd/https://medium.com/p/b65b896a1cb6) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Wed, 12 Nov 2025 09:59:31 GMT | [   :    …](https://freedium.cfd/https://medium.com/p/a8f02bd5cea8) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Wed, 12 Nov 2025 03:36:07 GMT | [CORS and CSRF in Plain English: Understanding Web Security](https://freedium.cfd/https://medium.com/p/18eae0d087e2) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Tue, 11 Nov 2025 17:23:21 GMT | [Cross-Site Scripting (XSS): The Hidden Cyber Threat Lurking in Yo...](https://freedium.cfd/https://medium.com/p/0078e0f09f78) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Mon, 10 Nov 2025 12:02:05 GMT | [TLS 1.3, ECH & PQC: What Devs Need Now](https://freedium.cfd/https://medium.com/p/0efde96ecf2b) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Mon, 10 Nov 2025 11:19:32 GMT | [Beyond the Basics: Supercharging Your Website Security with WAF C...](https://freedium.cfd/https://medium.com/p/7d83b07ca09a) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Mon, 10 Nov 2025 09:32:02 GMT | [Beyond Passwords: 6 Safer Ways to Log In](https://freedium.cfd/https://medium.com/p/ebcbdee4b12e) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Mon, 10 Nov 2025 08:20:51 GMT | [Technical Analysis: Vulnerability Chain Leading to RCE in a Web P...](https://freedium.cfd/https://medium.com/p/8c7cf72d5142) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Wed, 12 Nov 2025 07:05:53 GMT | [Email = Token = Broken Auth in Booking System](https://freedium.cfd/https://medium.com/p/b54a7f5d7a52) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
-| Wed, 12 Nov 2025 06:00:39 GMT | [Yazılım Test Mühendisinden Siber Güvenliğe: TryHackMe CyberH...](https://freedium.cfd/https://medium.com/p/21f38146648e) | [web-security](https://medium.com/feed/tag/web-security) |  |  |
+| Tue, 11 Nov 2025 11:28:37 GMT | [Bug Bounty Hunting — Complete Guide (Part-139)](https://freedium.cfd/https://medium.com/p/6a8a0ec5b080) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Wed, 12 Nov 2025 20:00:56 GMT | [This Google Dorking Trick can get you $5000 Bounty \[No Cap\]](https://freedium.cfd/https://medium.com/p/da03a3c36355) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Wed, 12 Nov 2025 18:01:24 GMT | [The Cache Poisoning Bible: Part 2 — Exotic Header Exploitat...](https://freedium.cfd/https://medium.com/p/d074746690cb) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Wed, 12 Nov 2025 16:53:03 GMT | [How I Found a $$$ Bounty: Exposed SDK License Key](https://freedium.cfd/https://medium.com/p/81f8c3f6c5bf) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Tue, 11 Nov 2025 23:18:45 GMT | [When Six Zeros Broke a Food Delivery Empire](https://freedium.cfd/https://medium.com/p/1b4a5cf5405b) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Tue, 11 Nov 2025 20:02:32 GMT | [A Story of a Slowloris DoS — the coolest DoS Attack](https://freedium.cfd/https://medium.com/p/9279442ed89a) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Tue, 11 Nov 2025 18:04:44 GMT | [The 0-Click Account Takeover Using Punycode IDN Attacks](https://freedium.cfd/https://medium.com/p/ac20c4eb05c8) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Tue, 11 Nov 2025 11:30:35 GMT | [Bug Bounty Hunting — Complete Guide (Part-140)](https://freedium.cfd/https://medium.com/p/0944b1616a29) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
+| Wed, 12 Nov 2025 11:26:52 GMT | [ Business Logic Flaw: How an Empty Team Name Can Trap Users Forev...](https://freedium.cfd/https://medium.com/p/fb9152acb990) | [bug-bounty-tips](https://medium.com/feed/tag/bug-bounty-tips) | Yes |  |
