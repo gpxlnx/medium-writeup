@@ -16,10 +16,10 @@ Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syn
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
@@ -63,13 +63,12 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Thu, 13 Nov 2025 09:33:48 GMT | [Secure Software Development Lifecycle: Concepts, Principles, and ...](https://freedium.cfd/https://medium.com/p/3781bfd374c1) | [application-security](https://medium.com/feed/tag/application-security) |  | Yes |
-| Thu, 13 Nov 2025 04:58:30 GMT | [Block Attacks by Letting PHP Notice Unnatural Request Sequences](https://freedium.cfd/https://medium.com/p/6ce5d3510fbd) | [application-security](https://medium.com/feed/tag/application-security) |  | Yes |
-| Thu, 13 Nov 2025 03:26:16 GMT | [$4500 Local File Inclusion: The Tiny Parameter That Exposed an En...](https://freedium.cfd/https://medium.com/p/74f7d3cc669c) | [application-security](https://medium.com/feed/tag/application-security) |  | Yes |
-| Thu, 13 Nov 2025 03:07:05 GMT | [OWASP Top 10 (2025): What’s New & What It Means for Your AppSec...](https://freedium.cfd/https://medium.com/p/3b44f0ebe06a) | [application-security](https://medium.com/feed/tag/application-security) |  | Yes |
-| Wed, 12 Nov 2025 15:13:24 GMT | [Avoid Cryptographic Failures With These 6 Easy Steps](https://freedium.cfd/https://medium.com/p/f0961107edfe) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Tue, 11 Nov 2025 08:09:27 GMT | [Web Application Security Course with AI in Delhi](https://freedium.cfd/https://medium.com/p/455c7dfec2f3) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Tue, 11 Nov 2025 11:21:00 GMT | [Integrating AI into Your Digital Transformation Strategy for Smar...](https://freedium.cfd/https://medium.com/p/8077e6d67655) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Tue, 11 Nov 2025 09:44:49 GMT | [Best ASPM Tools in 2025: Unify Application Security and Gain Full...](https://freedium.cfd/https://medium.com/p/084f4fe1bd58) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Wed, 12 Nov 2025 15:16:59 GMT | [Cross-Site Scripting (XSS)](https://freedium.cfd/https://medium.com/p/5ffaada11fbf) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
-| Tue, 11 Nov 2025 20:32:01 GMT | [7 Hard Security Wins Rust Guarantees — And 9 Traps It Won�...](https://freedium.cfd/https://medium.com/p/6d2677436e0a) | [application-security](https://medium.com/feed/tag/application-security) |  |  |
+| Thu, 13 Nov 2025 09:26:34 GMT | [CYBER KALKI Medium account suspended](https://freedium.cfd/https://medium.com/p/c49fe61c8dc7) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Thu, 13 Nov 2025 07:12:26 GMT | [Reverse-Engineering Upload Names to Win an IDOR Bug](https://freedium.cfd/https://medium.com/p/296f7e068c1a) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Thu, 13 Nov 2025 05:33:49 GMT | [Privilege Escalation via GraphQL: Editors Can Become Owners Throu...](https://freedium.cfd/https://medium.com/p/b67782b98804) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Thu, 13 Nov 2025 09:51:48 GMT | [How I Turned a Boring Image Downloader into an IDOR Goldmine](https://freedium.cfd/https://medium.com/p/77a77d8c6c05) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes | Yes |
+| Wed, 12 Nov 2025 11:26:52 GMT | [ Business Logic Flaw: How an Empty Team Name Can Trap Users Forev...](https://freedium.cfd/https://medium.com/p/fb9152acb990) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Wed, 12 Nov 2025 07:05:53 GMT | [Email = Token = Broken Auth in Booking System](https://freedium.cfd/https://medium.com/p/b54a7f5d7a52) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Tue, 11 Nov 2025 20:02:32 GMT | [A Story of a Slowloris DoS — the coolest DoS Attack](https://freedium.cfd/https://medium.com/p/9279442ed89a) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Tue, 11 Nov 2025 17:34:06 GMT | [Responsible Recon: how to find bug-bounty and disclosure pages (e...](https://freedium.cfd/https://medium.com/p/6b49a30eeaf6) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Tue, 11 Nov 2025 23:18:45 GMT | [When Six Zeros Broke a Food Delivery Empire](https://freedium.cfd/https://medium.com/p/1b4a5cf5405b) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
