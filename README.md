@@ -2,6 +2,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
@@ -12,9 +13,8 @@ Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
@@ -62,20 +62,22 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Fri, 14 Nov 2025 18:02:14 GMT | [HackTheBox: Editor Writeup](https://freedium.cfd/https://medium.com/p/5602c1cda18a) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 15:15:50 GMT | [Master the Art of Writing Better Cybersecurity Reports with AI: S...](https://freedium.cfd/https://medium.com/p/45393249dcf4) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 18:02:06 GMT | [HackTheBox Meow: from telnet to root access](https://freedium.cfd/https://medium.com/p/0bc025c4e94d) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 15:13:55 GMT | [VAPT Uncovered: What Businesses Learn When They Test Their Own Wa...](https://freedium.cfd/https://medium.com/p/89e540fc09c4) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 11:23:34 GMT | [In Today’s Rapidly Digitalizing World: The Role and Methodology...](https://freedium.cfd/https://medium.com/p/94ba4f7eb17d) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 13:27:45 GMT | [When the Bug Bounty Platform Turns Against Its Own Hunters](https://freedium.cfd/https://medium.com/p/3f5da87851ff) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  | Yes |
-| Fri, 14 Nov 2025 18:46:21 GMT | [Mobile Hacking Lab - Guess Me](https://freedium.cfd/https://medium.com/p/689090b30d5b) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 16:21:45 GMT | [Pickle Rick TryHackMe Writeup](https://freedium.cfd/https://medium.com/p/e7039ecb3711) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 14:22:27 GMT | [How i Found My first IDOR On Heavily Tested Target](https://freedium.cfd/https://medium.com/p/ace3322824cc) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  | Yes |
-| Fri, 14 Nov 2025 18:44:28 GMT | [Mobile Hacking Lab - Post Board](https://freedium.cfd/https://medium.com/p/0c78b62a2989) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 03:45:03 GMT | [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Ga...](https://freedium.cfd/https://medium.com/p/3bfdf6a352b0) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  | Yes |
-| Thu, 13 Nov 2025 07:12:26 GMT | [Reverse-Engineering Upload Names to Win an IDOR Bug](https://freedium.cfd/https://medium.com/p/296f7e068c1a) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Thu, 13 Nov 2025 13:27:02 GMT | [How to Find P1 Bugs using Google in your Target — (Part-2)](https://freedium.cfd/https://medium.com/p/d37a9bb0b2e7) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Thu, 13 Nov 2025 11:43:47 GMT | [Reflected XSS in PUBG](https://freedium.cfd/https://medium.com/p/7cee89243268) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Thu, 13 Nov 2025 19:32:04 GMT | [ Subdomain Enumeration: Uncovering the Hidden Corners of the Web](https://freedium.cfd/https://medium.com/p/0bb2ae523c21) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Thu, 13 Nov 2025 09:51:48 GMT | [How I Turned a Boring Image Downloader into an IDOR Goldmine](https://freedium.cfd/https://medium.com/p/77a77d8c6c05) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
-| Thu, 13 Nov 2025 17:38:18 GMT | [The Best AI for Ethical Hacking](https://freedium.cfd/https://medium.com/p/911c92de3b37) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) |  |  |
+| Fri, 14 Nov 2025 18:37:01 GMT | [Hidden Role, Full Takeover: How an Invite API Let Me Become an Or...](https://freedium.cfd/https://medium.com/p/86c9e55298e4) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes | Yes |
+| Fri, 14 Nov 2025 18:16:19 GMT | [The Silent ATO](https://freedium.cfd/https://medium.com/p/238edcda6dd0) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes | Yes |
+| Fri, 14 Nov 2025 04:08:12 GMT | [1-Line curl to steal your unexposed secret creds Escaping Protect...](https://freedium.cfd/https://medium.com/p/0c52f4f47300) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes | Yes |
+| Mon, 27 Oct 2025 12:10:15 GMT | [Most hunters chase scanners and payload lists.](https://freedium.cfd/https://medium.com/p/f946c25db6f3) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Fri, 17 Oct 2025 05:23:22 GMT | [Email Verification OTP Bypass €€ — How I verified any ema...](https://freedium.cfd/https://medium.com/p/470cec0dbca5) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
+| Wed, 12 Nov 2025 11:53:58 GMT | [Be careful — I could steal your identity \| Business logic ...](https://freedium.cfd/https://medium.com/p/76c1d83868dc) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Sat, 08 Nov 2025 05:08:24 GMT | [️ Hacker Zone: How I Saw Bots, Shut Them Down, and Turned a Cli...](https://freedium.cfd/https://medium.com/p/90da16975f6b) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Wed, 29 Oct 2025 09:17:51 GMT | [So… I Could Control the OTP ‍♂️](https://freedium.cfd/https://medium.com/p/503ba61997ff) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Fri, 10 Oct 2025 13:51:02 GMT | [the Vulnerability Allows Forced Removal of Page Owner Without Con...](https://freedium.cfd/https://medium.com/p/612662f3b715) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
+| Thu, 30 Oct 2025 08:09:02 GMT | [The Tool Addiction — Why Hackers Obsess Over Tools & AI (an...](https://freedium.cfd/https://medium.com/p/4cb5f345f2c5) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Tue, 28 Oct 2025 11:00:37 GMT | [From One to Many — The Forbidden Playbook for Scaling a Sin...](https://freedium.cfd/https://medium.com/p/c85478aeb6ab) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Fri, 24 Oct 2025 11:08:51 GMT | [My OpenAI Bug Bounty Experience: Getting Ghosted By OpenAI](https://freedium.cfd/https://medium.com/p/5f71d7cce19c) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
+| Fri, 10 Oct 2025 13:50:03 GMT | [the Vulnerability Allows Forced Removal of Page Owner Without Con...](https://freedium.cfd/https://medium.com/p/59081543cab2) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
+| Fri, 07 Nov 2025 21:11:37 GMT | [KODOK: Advanced JavaScript Security Scanner for Bug Bounty Hunter...](https://freedium.cfd/https://medium.com/p/bfac3d8f3927) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Sun, 02 Nov 2025 18:57:41 GMT | [Nmap — The First Step Every Ethical Hacker Takes](https://freedium.cfd/https://medium.com/p/2da1d356363e) | [hackerone](https://medium.com/feed/tag/hackerone) | Yes |  |
+| Sat, 11 Oct 2025 12:35:47 GMT | [Emoji Reaction to Vertical Privileges Escalation $$$](https://freedium.cfd/https://medium.com/p/f6824436910a) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
+| Fri, 19 Sep 2025 14:36:51 GMT | [Subdomain Enumeration Techniques](https://freedium.cfd/https://medium.com/p/94e3ae5348ef) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
+| Wed, 03 Sep 2025 13:06:48 GMT | [The Overlooked Side of Bug Bounties: Hidden Vulnerabilities Begin...](https://freedium.cfd/https://medium.com/p/71b0aacbc6c8) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
+| Sun, 02 Nov 2025 05:22:43 GMT | [Why ! Did I get -2 points on my bug crowd profile](https://freedium.cfd/https://medium.com/p/4ae5d2d72c80) | [bugcrowd](https://medium.com/feed/tag/bugcrowd) | Yes |  |
