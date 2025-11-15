@@ -2,6 +2,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
@@ -15,12 +16,12 @@ Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syn
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/bug-bounty-writeup: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dork: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/web-pentest: XML syntax error on line 1: expected element name after <
@@ -62,22 +63,12 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 15 Nov 2025 01:59:29 GMT | [☁️ Cloud Red Teaming: Azure vs AWS TTPs You Need to Know](https://freedium.cfd/https://medium.com/p/b031b69dcac7) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Sat, 15 Nov 2025 03:00:03 GMT | [Attacking Active Directory for Noobs: User Enumeration](https://freedium.cfd/https://medium.com/p/4476378829d7) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  | Yes |
-| Fri, 14 Nov 2025 20:43:35 GMT | [Grotesque 1 CTF — Full Technical Walkthrough](https://freedium.cfd/https://medium.com/p/c6958332d656) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Fri, 14 Nov 2025 18:46:21 GMT | [Mobile Hacking Lab - Guess Me](https://freedium.cfd/https://medium.com/p/689090b30d5b) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Fri, 14 Nov 2025 18:44:28 GMT | [Mobile Hacking Lab - Post Board](https://freedium.cfd/https://medium.com/p/0c78b62a2989) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Fri, 14 Nov 2025 18:02:06 GMT | [HackTheBox Meow: from telnet to root access](https://freedium.cfd/https://medium.com/p/0bc025c4e94d) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Wed, 06 Aug 2025 18:09:04 GMT | [Making dorks from HTML Comment](https://freedium.cfd/https://medium.com/p/b4794b54d596) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Mon, 07 Jul 2025 14:05:53 GMT | [Google Dorking](https://freedium.cfd/https://medium.com/p/435f81cbf592) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 14 Nov 2025 22:26:53 GMT | [Maximum Courage challenge write up](https://freedium.cfd/https://medium.com/p/86b5256225ea) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Fri, 29 Aug 2025 04:43:21 GMT | [9. The Secret Power of Google Dorking](https://freedium.cfd/https://medium.com/p/736325566220) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Thu, 21 Aug 2025 10:04:08 GMT | [Dork Like a Demon: FOFA Edition for Hackers & Bug Bounty Hunters ](https://freedium.cfd/https://medium.com/p/a81f154d51d5) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Sat, 16 Aug 2025 17:33:22 GMT | [PDF.JS Viewer Endpoint Dorking](https://freedium.cfd/https://medium.com/p/03e3a68e0acf) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Tue, 05 Aug 2025 07:25:48 GMT | [CXF Service List Endpoint Recon](https://freedium.cfd/https://medium.com/p/de898ff3b03a) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 11 Jul 2025 03:48:37 GMT | [Why the FOFA dorking is so important](https://freedium.cfd/https://medium.com/p/cdfc510ac976) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Sun, 22 Jun 2025 12:31:36 GMT | [️ Day 5/30 Google Dorking: The Hacker’s Open Secret for Findi...](https://freedium.cfd/https://medium.com/p/f6d11d586884) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 14 Nov 2025 18:02:14 GMT | [HackTheBox: Editor Writeup](https://freedium.cfd/https://medium.com/p/5602c1cda18a) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Thu, 11 Sep 2025 22:20:14 GMT | [It’s Coming: DorkFi Delivers PreFi Rewards Surge](https://freedium.cfd/https://medium.com/p/3634e5bfec7c) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
-| Fri, 14 Nov 2025 16:21:45 GMT | [Pickle Rick TryHackMe Writeup](https://freedium.cfd/https://medium.com/p/e7039ecb3711) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) |  |  |
-| Sat, 23 Aug 2025 09:23:31 GMT | [URLScan Dorking to find WordPress Registration Endpoint](https://freedium.cfd/https://medium.com/p/f005884786d0) | [dorking](https://medium.com/feed/tag/dorking) |  |  |
+| Fri, 14 Nov 2025 13:27:45 GMT | [When the Bug Bounty Platform Turns Against Its Own Hunters](https://freedium.cfd/https://medium.com/p/3f5da87851ff) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Fri, 14 Nov 2025 03:45:03 GMT | [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Ga...](https://freedium.cfd/https://medium.com/p/3bfdf6a352b0) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Thu, 13 Nov 2025 19:32:04 GMT | [ Subdomain Enumeration: Uncovering the Hidden Corners of the Web](https://freedium.cfd/https://medium.com/p/0bb2ae523c21) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Thu, 13 Nov 2025 17:38:18 GMT | [The Best AI for Ethical Hacking](https://freedium.cfd/https://medium.com/p/911c92de3b37) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Thu, 13 Nov 2025 09:51:48 GMT | [How I Turned a Boring Image Downloader into an IDOR Goldmine](https://freedium.cfd/https://medium.com/p/77a77d8c6c05) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Thu, 13 Nov 2025 07:12:26 GMT | [Reverse-Engineering Upload Names to Win an IDOR Bug](https://freedium.cfd/https://medium.com/p/296f7e068c1a) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Fri, 14 Nov 2025 14:22:27 GMT | [How i Found My first IDOR On Heavily Tested Target](https://freedium.cfd/https://medium.com/p/ace3322824cc) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Thu, 13 Nov 2025 13:27:02 GMT | [How to Find P1 Bugs using Google in your Target — (Part-2)](https://freedium.cfd/https://medium.com/p/d37a9bb0b2e7) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
+| Thu, 13 Nov 2025 11:43:47 GMT | [Reflected XSS in PUBG](https://freedium.cfd/https://medium.com/p/7cee89243268) | [bug-bounty-writeup](https://medium.com/feed/tag/bug-bounty-writeup) | Yes |  |
