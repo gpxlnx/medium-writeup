@@ -12,7 +12,6 @@ Error parsing XML from https://medium.com/feed/tag/bugs: XML syntax error on lin
 Error parsing XML from https://medium.com/feed/tag/pentesting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/xss-attack: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-security: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/cross-site-scripting: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hackerone: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugcrowd: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/bugbounty-writeup: XML syntax error on line 1: expected element name after <
@@ -64,3 +63,13 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
+| Sat, 15 Nov 2025 10:40:30 GMT | [Limited Char XSS Challange Solution of Nowasky](https://freedium.cfd/https://medium.com/p/6ed3fb6387f8) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Tue, 11 Nov 2025 17:39:17 GMT | [DOM XSS in document.write sink inside a select element — Cr...](https://freedium.cfd/https://medium.com/p/b83de89b0cf5) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Tue, 11 Nov 2025 12:01:10 GMT | [Stored XSS into anchor href attribute with double quotes HTML-enc...](https://freedium.cfd/https://medium.com/p/25bc419b611d) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sat, 08 Nov 2025 07:59:11 GMT | [DOM XSS in innerHTML sink using source location.search — Po...](https://freedium.cfd/https://medium.com/p/fcff95c92215) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sat, 08 Nov 2025 07:56:55 GMT | [DOM XSS in jQuery anchor href attribute —  Cross-site Scrip...](https://freedium.cfd/https://medium.com/p/61bfaedf7807) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Mon, 17 Nov 2025 22:02:21 GMT | [Cómo frenar el Cross-Site Scripting en 5 pasos](https://freedium.cfd/https://medium.com/p/9594edaf534b) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Tue, 11 Nov 2025 14:36:58 GMT | [Reflected XSS inside a JavaScript string (angle brackets HTML-enc...](https://freedium.cfd/https://medium.com/p/fa99886fb1ab) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Sun, 09 Nov 2025 09:11:22 GMT | [Reflected XSS into attribute with angle brackets HTML-encoded— ...](https://freedium.cfd/https://medium.com/p/29903bb632e4) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Thu, 06 Nov 2025 20:40:43 GMT | [How I Found 6 Reflected XSS — and Turned Them into Account ...](https://freedium.cfd/https://medium.com/p/3c0ace797b0a) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
+| Thu, 06 Nov 2025 12:01:30 GMT | [Reflected XSS into HTML context with nothing encoded — Port...](https://freedium.cfd/https://medium.com/p/c47609642a34) | [cross-site-scripting](https://medium.com/feed/tag/cross-site-scripting) | Yes |  |
