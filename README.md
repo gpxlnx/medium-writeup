@@ -2,7 +2,6 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty: XML syntax error 
 Error parsing XML from https://medium.com/feed/tag/security: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/vulnerability: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cybersecurity: XML syntax error on line 1: expected element name after <
-Error parsing XML from https://medium.com/feed/tag/penetration-testing: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/information-technology: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/infosec: XML syntax error on line 1: expected element name after <
@@ -21,6 +20,7 @@ Error parsing XML from https://medium.com/feed/tag/bug-bounty-hunter: XML syntax
 Error parsing XML from https://medium.com/feed/tag/bug-bounty-program: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/ethical-hacking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/application-security: XML syntax error on line 1: expected element name after <
+Error parsing XML from https://medium.com/feed/tag/google-dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/dorking: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/cyber-security-awareness: XML syntax error on line 1: expected element name after <
 Error parsing XML from https://medium.com/feed/tag/google-dork: XML syntax error on line 1: expected element name after <
@@ -63,12 +63,12 @@ Error parsing XML from https://medium.com/feed/tag/api-key: XML syntax error on 
 Error parsing XML from https://medium.com/feed/tag/cyber-sec: XML syntax error on line 1: expected element name after <
 | Time | Title | Feed | IsNew | IsToday |
 |-----------|-----|-----|-----|-----|
-| Sat, 18 Oct 2025 18:47:59 GMT | [Google Dorking: The Guide Nobody Told You About](https://freedium.cfd/https://medium.com/p/8e20cd03743b) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Thu, 16 Oct 2025 19:01:16 GMT | [Internet Reconnaissance Tools(osint)](https://freedium.cfd/https://medium.com/p/2646b86159e7) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Wed, 08 Oct 2025 14:02:06 GMT | [Part 9: Google Hacking Database Explained: Dorking Your Way to Sm...](https://freedium.cfd/https://medium.com/p/5f31a862fd65) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Tue, 04 Nov 2025 07:31:55 GMT | [Google Dorking](https://freedium.cfd/https://medium.com/p/0e326d67296b) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Thu, 23 Oct 2025 21:38:15 GMT | [The Art of Google Dorking: From Vulnerability Discovery to Securi...](https://freedium.cfd/https://medium.com/p/beeba448159d) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Sat, 11 Oct 2025 00:28:47 GMT | [Google Dorking for Beginners: The Search Tricks Investigators Act...](https://freedium.cfd/https://medium.com/p/0fa98cfef5f4) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Fri, 10 Oct 2025 03:37:16 GMT | [3rd party PII Leak OSINT](https://freedium.cfd/https://medium.com/p/75b5f236e3e5) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Fri, 31 Oct 2025 15:44:05 GMT | [Google Dorking for Test Environments](https://freedium.cfd/https://medium.com/p/ae70958fa112) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
-| Tue, 14 Oct 2025 16:30:51 GMT | [Google Dorking for Beginners: The Ethical Hacker’s Guide to Sma...](https://freedium.cfd/https://medium.com/p/c61cdbf152cf) | [google-dorking](https://medium.com/feed/tag/google-dorking) | Yes |  |
+| Wed, 19 Nov 2025 10:35:43 GMT | [HackTheBox Writeup: Cap — Easy Level Linux based Machine](https://freedium.cfd/https://medium.com/p/833c66b34d78) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Wed, 19 Nov 2025 09:53:02 GMT | [Penetration Testing vs Ethical Hacking: Key Differences Explained...](https://freedium.cfd/https://medium.com/p/04dcd28eaf9b) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Wed, 19 Nov 2025 02:09:54 GMT | [Crack the Gate 2 web challenge write-up](https://freedium.cfd/https://medium.com/p/02a4cb00fc71) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Wed, 19 Nov 2025 07:46:06 GMT | [Top 10 Network Visibility Tools Every Pentester Needs in 2025: Le...](https://freedium.cfd/https://medium.com/p/a2b6749c5d60) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Wed, 19 Nov 2025 06:58:38 GMT | [EJPT — walkthrough](https://freedium.cfd/https://medium.com/p/b9e12f6c9931) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Wed, 19 Nov 2025 05:58:33 GMT | [Email Enumeration via GraphQL Misconfiguration](https://freedium.cfd/https://medium.com/p/729867b2d682) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Wed, 19 Nov 2025 01:34:26 GMT | [GitLab CVE-2023–7028 \| TryHackMe](https://freedium.cfd/https://medium.com/p/f48c51ed58b2) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes | Yes |
+| Tue, 18 Nov 2025 17:41:20 GMT | [My Journey in Hacking, Virtual Machines, Linux, and Networking](https://freedium.cfd/https://medium.com/p/ebc2d8dfe24a) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes |  |
+| Tue, 18 Nov 2025 18:33:04 GMT | [My experience with certification CRTP + Bootcamp](https://freedium.cfd/https://medium.com/p/6f1cd095dd9d) | [penetration-testing](https://medium.com/feed/tag/penetration-testing) | Yes |  |
